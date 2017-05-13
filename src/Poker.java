@@ -60,8 +60,9 @@ import javax.swing.*;
 <param name = "♣ Q" value="♣Q.png">
 <param name = "♣ K" value="♣K.png">
 <param name = "back_c" value="Back_C.png">
- </applet> */
- 
+ Ballet */
+
+
 class Player{
 	char PD[][] = new char[7][2];
 	String PD_w[] = new String[7];
@@ -136,6 +137,7 @@ class Player{
 	}
 	
 }
+
 class Card{
 	char deck[][] = new char[52][2];//카드 덱 [카드갯수][문양,숫자]
 	int al_C[] = new int[52];
@@ -202,7 +204,7 @@ class Card{
 		al_C[j] = 1;
 		return temp;
 	}
-	
+	{}
 }
 
 
