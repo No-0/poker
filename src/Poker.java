@@ -63,9 +63,6 @@ import javax.swing.*;
  Ballet */
 
 
-
-
-
 class Player{
 	char PD[][] = new char[7][2];
 	String PD_w[] = new String[7];
