@@ -218,8 +218,7 @@ public class Poker extends JApplet
   int Bat_M_H;
   int Bat_M_D;
   int Bat_M_C;
-  
-  
+ 
   int Turn;
   
 
